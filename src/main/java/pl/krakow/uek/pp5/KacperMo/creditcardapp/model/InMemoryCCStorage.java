@@ -1,4 +1,4 @@
-package pl.krakow.uek.pp5.jkan.creditcardapp.model;
+package pl.krakow.uek.pp5.KacperMo.creditcardapp.model;
 
 import pl.krakow.uek.pp5.KacperMo.creditcardapp.model.CreditCardStorage;
 
